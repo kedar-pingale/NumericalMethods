@@ -2,11 +2,16 @@
 
 This library has Fundamental numerical linear algebra methods and some basic matrix operations
 
+
 To use library.
+
 1)You can use main.cpp to write your own code OR
+
 2)You can include Matrix.hpp file in your own code just like i have included in main.cpp
 
+
 Entire code is written in C++. 
+
 Class data members, member functions declarations are kept in Matrix.hpp file and definitions of all member functions are in Matrix.cpp file.
 
 Way to mention matrix in file:
